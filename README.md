@@ -1,3 +1,3 @@
 # leetcode-python
-leetcode做题
+my leetcode python solutions.
 https://leetcode.com/
